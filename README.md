@@ -3,22 +3,21 @@
 ### Notes:
 
 Time complexity of NP Complete reduction - polynomial time
-
 NP Complete problems (typically exponential complexity) - Traveling Salesmen problem, Knapsack problem, Hamiltonian path problem
 
-Time Complexity
-Linked list operations -  order N
-Balanced BST - order log(n)
-Worst case BST - order N
-Heap insert/remove - log(n)
-Queue push/pop w/o tail - order N
-Queue push/pop w/ tail - constant time
-Stack push/pop - constant time
+Time Complexity:<br>
+Linked list operations -  order N<br>
+Balanced BST - order log(n)<br>
+Worst case BST - order N<br>
+Heap insert/remove - log(n)<br>
+Queue push/pop w/o tail - order N<br>
+Queue push/pop w/ tail - constant time<br>
+Stack push/pop - constant time<br>
 
-Inserting to heap:
-Insert at next position
-Upheap
+Inserting to heap:<br>
+Insert at next position<br>
+Upheap<br>
 
-Removing from heap:
-Replace root with last inserted
+Removing from heap:<br>
+Replace root with last inserted<br>
 Downheap
