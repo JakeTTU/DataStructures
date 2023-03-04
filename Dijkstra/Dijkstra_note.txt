@@ -1,0 +1,14 @@
+Dijkstra's Algorithm
+
+Finds the shortest distance to all other nodes.
+Weights must be positive.
+
+Mark all vert distance as infinity 
+Mark source distance as 0
+Push all vertices to a priority queue (PQ)
+While PQ is not empty 
+	pop PQ into V1
+	for all adjacent vertices (V2)
+		newDistance = V1.Distance + (V1,V2).Distance
+		if newDistance < V2.Distance
+			V2.Distance = NewDistance 

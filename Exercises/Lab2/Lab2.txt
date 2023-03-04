@@ -1,0 +1,1 @@
+Write a program to implement a Singly Linked List.  Your program will insert 5 data initially and then delete the first data. Your final output will generate the remaining data. Your code should document each function with comments.

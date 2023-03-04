@@ -1,0 +1,1 @@
+Lab -5 (Binary Search Tree)Write a program to create a Binary Search Tree of integers and search an element in it. Insert the following integers (16, 11, 21, 23, 10 and 13) and search for the integer 21. Please be advised that each member of the group needs to understand the basic of the BST. 

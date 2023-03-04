@@ -1,0 +1,15 @@
+Graph Depth First Traversal
+
+define graphTraversal(Graph, Start)
+	push Start onto Stack
+	while Stack is not empty
+		pop Stack into V
+		if V not visited
+			visit V
+			push all adj unvisited Vertices
+ 		if Stack is empty, but still unvisited vertices
+			push 1 unvisited vertices
+
+			
+Graph Breadth First Traversal
+Change from a Stack to a Queue

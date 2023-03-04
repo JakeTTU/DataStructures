@@ -1,0 +1,1 @@
+Lab -4Please be advised that this lab has more concepts and hard to implement. So, make sure that you are well prepared for the lab. 1.	What is the function of a stack?2.	What is que and how it operates?3.	Implement a stack using single que in C++. Your code should document your function and the class with comments.

@@ -1,0 +1,1 @@
+1.	What is doubly linked list?2.	What are the advantages of using a doubly linked list?3.	Create a doubly linked list and print the list into reverse order. 
