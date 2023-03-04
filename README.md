@@ -1,6 +1,6 @@
-##Basic Data Structures implemented in C++
+## Basic Data Structures implemented in C++
 
-###Notes
+### Notes:
 
 Time complexity of NP Complete reduction - polynomial time
 
